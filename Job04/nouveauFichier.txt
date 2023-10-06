@@ -1,0 +1,3 @@
+[user]
+	email = ahmed.aouad@laplateforme.io
+	name = ahmed-aouad
